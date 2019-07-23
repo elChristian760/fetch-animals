@@ -1,0 +1,94 @@
+{
+    "animals": [
+        {
+        "@id": "01",
+        "name": "Loxodonta Africana",
+        "title": "African Elephant",
+        "image": "AfricanElephant.jpg",
+        "location": "North Africa",
+        "startDate": "1920",
+        "population": "13,000",
+        "description": "The african elephant is classified as a member of the order Proboscidea (Elephants) and is a member of the family Elephantidae. The male stands up to ten feet high to its shoulder, and weighs up to six tons. The female is slightly smaller, and weighs up to four tons. It is classified as an endangered species due to a reduction of at least 50% of the african elephant population over the last three generations based on an index of abundance. Hunting of the african elephant is now banned in several countries, but poaching for ivory still exists."
+        },
+        {
+        "@id": "02",
+        "name": "Elephas Maximus",
+        "title": "Asian Elephant",
+        "image": "AsianElephant.jpg",
+        "location": "East Asia",
+        "startDate": "1920",
+        "population": "13,000",
+        "description": "The asian elephant is classified as a member of the order Proboscidea (Elephants) and is a member of the family Elephantidae. It stands up to ten feet high and twenty feet long. It weighs up to 10,000 pounds. The asian elephant is classified as an endangered species due to a reduction of at least 50% of the asian elephant population over the last three generations based on an index of abundance and a decline in area of occupancy. The Asian elephant has four subspecies: the Indian, Ceylon, Sumatran, and Malaysian elephants."
+        },
+        {
+        "@id": "03",
+        "name": "Eubalaena glacialis",
+        "title": "Right Whale",
+        "image": "RightWhale.jpg",
+        "location": "Artic",
+        "startDate": "1920",
+        "population": "1,000",
+        "description": "The right whale is classified as a member of the order Cetacea (Whales) and is a member of the family Balaenidae. It grows up to sixty feet long, and is twelve to eighteen feet long at birth. It weighs up to sixty tons as an adult. The right whale is classified as an endangered species due to an estimated population of less than 250 mature right whales and an estimated continuing decline of at least 20% within two generations. The right whale was once the most hunted of all whales, and is now protected by law."
+        },
+        {
+        "@id": "04",
+        "name": "Balaenoptera Musculus",
+        "title": "Blue Whale",
+        "image": "BlueWhale.jpg",
+        "location": "Pacific and Atlantic",
+        "startDate": "1920",
+        "population": "4,000",
+        "description": "The blue whale is classified as a member of the order Cetacea (Whales) and is a member of the family Balaenopteridae. The male blue whale grows to about eighty-two feet long, and the female grows to about eighty-five feet long. It weighs up to 285,000 pounds as an adult. The blue whale is classified as an endangered species due to a reduction of at least 50% of the blue whale population over the last three generations based on direct observation, an index of abundance, and actual levels of exploitation. The blue whale is the largest mammal to have lived on the earth, but it feeds on some of the smallest marine organisms: plankton."
+        },
+        {
+        "@id": "05",
+        "name": "Balaenoptera physalus",
+        "title": "Fin Whale",
+        "image": "BlueWhale.jpg",
+        "location": "Pacific and Atlantic",
+        "startDate": "1920",
+        "population": "4,000",
+        "description": "The fin whale is classified as a member of the order Cetacea (Whales) and is a member of the family Balaenopteridae. It grows up to eighty feet long. The fin whale is classified as an endangered species due to a reduction of at least 50% of the blue whale population over the last three generations based on direct observation, an index of abundance, and actual levels of exploitation."
+        },
+        {
+        "@id": "06",
+        "name": "Leontopithecus rosalia",
+        "title": "Golden Lion Tamarin",
+        "image": "GoldenLionTamarin.jpg",
+        "location": "Africa",
+        "startDate": "1910",
+        "population": "4,000",
+        "description": "The golden lion tamarin is classified as a member of the order Primates and is a member of the family Callitrichidae. The golden lion tamarin's head and body are about one foot long, and the tail is slightly shorter. It weighs about one and a half pounds. The golden lion tamarin is classified as a critically endangered species due to the fact that it only exists in severely fragmented subpopulations consisting of no more than fifty mature tamarins each, and that there has been continuing decline in the golden lion tamarin population. The golden lion tamarin is one of the most endangered of all mammals."
+        },
+        {
+        "@id": "07",
+        "name": "Ateles belzebuth hybridus",
+        "title": "Hybrid spider Monkey",
+        "image": "HybridSpiderMonkey.jpg",
+        "location": "Africa",
+        "startDate": "1940",
+        "population": "2,000",
+        "description": "The hybrid spider monkey is classified as a member of the order Primates and is a member of the family Cebidae. The hybrid spider monkey grows to almost two feet long, not including the tail. It weighs from ten to fifteen pounds. The hybrid spider monkey is classified as an endangered species due to the fact that it only exists in severely fragmented subpopulations, and that there has been continuing decline in the hybrid spider monkey population. The hybrid spider monkey is known for its ability to use its tail as an extra limb."
+        },
+        {
+        "@id": "07",
+        "name": "Daubentonia madagascariensis",
+        "title": "Aye-aye",
+        "image": "ayeaye.jpg",
+        "location": "Africa",
+        "startDate": "1940",
+        "population": "2,000",
+        "description": "The aye-aye is classified as a member of the order Primates and is a member of the family Daubentoniidae. The aye-aye is about the size of a rabbit, and is brown. It is a nocturnal animal. The aye-aye is classified as an endangered species due to a projected reduction of at least 50% of the aye-aye population over the next ten years based on levels of exploitation and a decline in area of occupancy. Also, the aye-aye has an estimated population of less than 2500 and an observed continuing decline in the form of severly fragmented subpopulations. The aye-aye builds nests out of twigs to hide during the day. It can be found on the African island of Madagascar."
+        },
+        {
+        "@id": "08",
+        "name": "Gorilla gorilla",
+        "title": "Gorilla",
+        "image": "gorilla.jpg",
+        "location": "Africa",
+        "startDate": "1850",
+        "population": "2,000",
+        "description": "TThe gorilla is classified as a member of the order Primates and is a member of the family Hominidae. The male gorilla grows to about six feet high, and weighs up to six hundred pounds. The female gorilla grows to about five feet high, and weighs up to two hundred pounds. The gorilla is classified as an endangered species due to the projected gorilla population declining to at the highest 50% due to a decline in area of occupancy. The gorilla is the largest and most powerful primate alive, but is a peaceful and sociable animal."
+        }
+    ]
+}
